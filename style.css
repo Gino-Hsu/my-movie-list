@@ -1,0 +1,18 @@
+div.mode {
+  font-size: 1.5rem;
+}
+
+.to-card,
+.to-list {
+  color: gray;
+}
+
+.to-card:hover,
+.to-list:hover {
+  color: black;
+  cursor: pointer;
+}
+
+.mode .active {
+  color: black;
+}
